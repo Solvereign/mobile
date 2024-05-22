@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="word_text_height">60dp</dimen>
+    <dimen name="word_size">34sp</dimen>
+    <dimen name="custom_pad">36dp</dimen>
+    <dimen name="low_pad">20dp</dimen>
+    <dimen name="lowest_pad">16dp</dimen>
+</resources>

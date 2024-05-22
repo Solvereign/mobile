@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Картны апп</string>
+    <string name="attention">Анхаар!</string>
+    <string name="back_button">Буцах</string>
+
+    <string name="add_word_title">Үг нэмэх</string>
+    <string name="edit_word_title">Үг өөрчлөх</string>
+    <string name="home_title">Үг сурах</string>
+    <string name="change_mode_title">Харагдац өөрчлөх</string>
+
+    <string name="delete">Устгах</string>
+    <string name="next">Дараа</string>
+    <string name="prev">Өмнөх</string>
+    <string name="add">Нэмэх</string>
+    <string name="update">Шинэчлэх</string>
+    <string name="insert">Оруулах</string>
+    <string name="cancel">Болих</string>
+
+    <string name="no">Үгүй</string>
+    <string name="yes">Тийм</string>
+
+    <string name="foreign_word">Гадаад үг</string>
+    <string name="mongolian_word">Монгол үг</string>
+
+    <string name="delete_question">Та устгахдаа итгэлтэй байна уу?</string>
+    <string name="no_word_description">Үг алга байна, "нэмэх" товч дээр даран нэмнэ үү</string>
+
+    <string name="both">Хоёуланг харуулна</string>
+    <string name="only_mongolian">Зөвхөн монгол үгийг харуулна</string>
+    <string name="only_english">Зөвхөн англи үгийг харуулна</string>
+
+    <string name="notif_set">Мэдэгдэл авах уу?</string>
+</resources>
